@@ -19,4 +19,6 @@ You can use Jetbrains phpStorm or vsCode
 
 # Database Creation
 
-In order to use database you have to install phpMyAdmin and browse database file from project folder.Then you can start the server.
+In order to use database you have to install phpMyAdmin and browse database file from   Web/DB/parking2.sql 
+
+Then you can start the server
